@@ -1,0 +1,11 @@
+Django==5.2.5
+
+# Core
+Django==5.2.5
+
+# Production (opțional)
+psycopg2-binary   # pentru PostgreSQL, dacă nu rămâi pe SQLite
+whitenoise        # pentru servit static files în producție
+
+# Development (opțional)
+pytest-django     # pentru testare cu pytest
