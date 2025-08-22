@@ -12,7 +12,7 @@ A minimal Django 5 project for a small greengrocer-style shop. It includes a `pr
   - `/products/` – list all products (template-based view)
   - `/admin/` – Django admin
 - Templates with Bootstrap 5 (CDN)
-- SQLite by default (do **not** commit your local DB file)
+- SQLite by default
 
 ---
 
