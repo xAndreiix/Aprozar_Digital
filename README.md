@@ -114,6 +114,8 @@ source .venv/bin/activate
 2. **Install dependencies**
 ```bash
 - pip install "Django>=5.2,<6"
+```
+```bash
 - pip freeze > requirements.txt
 ```
 3. **Run migrations**
