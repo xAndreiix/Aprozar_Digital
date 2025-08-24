@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
 - 🛠️ [Technologies](#technologies)
@@ -21,7 +21,7 @@
 
 ---
 
-## Introduction
+## Project Description
 A minimal Django 5 project for a small greengrocer-style shop. It includes a `products` app with `Product` and `Offer` models and a simple Bootstrap UI that lists products with image, name and price.
 <!-- ## Badges -->
 <!-- ## Live Demo -->
