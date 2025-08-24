@@ -30,16 +30,10 @@ A minimal Django 5 project for a small greengrocer-style shop. It includes a `pr
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/calculator-app.png" width="600">
+  <img src="screenshots/products-page.png" width="600">
 </p>
 
-<br>
-
-<p align="center">
-  <img src="screenshots/calculator-multiplication.png" width="45%">
-  <img src="screenshots/calculator-division.png" width="45%">
-</p>
-
+---
 
 ## Features
 - Django 5.2 project (`AprozarDigital`) with one app: `products`
@@ -77,9 +71,7 @@ A minimal Django 5 project for a small greengrocer-style shop. It includes a `pr
 - ├─ manage.py
 - ├─ db.sqlite3
 - ├── screenshots/
-- │   └── calculator-app.png
-- │   └── calculator-division.png
-- │   └── calculator-multiplication.png
+- │   └── products-page.png
 - ├─ .gitignore
 - ├─ LICENSE
 - └─ README.md
