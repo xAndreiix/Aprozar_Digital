@@ -33,6 +33,20 @@ A minimal Django 5 project for a small greengrocer-style shop. It includes a `pr
   <img src="screenshots/products-page.png" width="600">
 </p>
 
+<br>
+
+<p align="center">
+  <img src="screenshots/admin-log-in-panel.png" width="45%">
+  <img src="screenshots/admin-control-panel.png" width="45%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/add-product-panel.png" width="45%">
+  <img src="screenshots/add-discount-panel.png" width="45%">
+</p>
+
 ---
 
 ## Features
